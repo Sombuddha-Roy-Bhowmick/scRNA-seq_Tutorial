@@ -8,4 +8,4 @@ The repository has scRNA.R (a R script for the analysis of scRNA data), which ha
 
 The Rscript has all the processes and steps defined with a "#", for the user's convenience. 
 
-All the image files (heatmaps, plots, and others) generated from the R script has been provided here.
+All the image files (heatmaps, plots, and others) generated from the R script have been provided here.
