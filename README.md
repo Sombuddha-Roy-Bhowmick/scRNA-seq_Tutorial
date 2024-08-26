@@ -1,4 +1,4 @@
-# scRNA-seq_Tutorial
+# scRNA-seq Tutorial
 
 This repository contains the pre-processing and analysis steps for scRNA-seq (single cell RNA-seq) data from one cell type or one experimental condition.
 
